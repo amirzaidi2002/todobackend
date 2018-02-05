@@ -1,0 +1,2 @@
+# Exclude venv folder from docker image
+venv
