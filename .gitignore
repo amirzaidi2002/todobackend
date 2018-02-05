@@ -17,3 +17,4 @@ src/*egg-info
 # Ignore build and test artifacts
 target
 reports
+
