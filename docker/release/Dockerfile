@@ -1,5 +1,5 @@
 FROM amirzaidi2002/todobackend-base:latest
-MAINTAINER Amir Zaidi <amir.zaidi@gmail.com>
+MAINTAINER Amir Zaidi <amir.zaidi@dell.com>
 
 # Copy application artifacts
 COPY target /wheelhouse

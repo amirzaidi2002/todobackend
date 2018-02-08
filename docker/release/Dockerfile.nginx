@@ -1,0 +1,5 @@
+FROM nginx
+MAINTAINER Amir Zaidi <amir.zaidi@dell.com>
+
+# Copy configuration file
+COPY todobackend.conf /etc/nginx/conf.d/todobackend.conf
