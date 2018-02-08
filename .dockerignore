@@ -1,2 +1,5 @@
 # Exclude venv folder from docker image
 venv
+
+# Ignore the reports folder
+reports
